@@ -1,5 +1,6 @@
 # PCA_feature_extraction_and_dimensionality-reduction_ML
 Applications of Artificial Intelligence, Machine Learning models and statistical effect of the PCA algorithm.
+
 Feature Extraction and Dimensionality Reduction with Principal Component Analysis (PCA)  and Comparison Accurancy 6 Machine Learning Models : before-after PCA
   
 Step 1:   Collect Data: UCI Parkinson's Disease Classification Data Set
