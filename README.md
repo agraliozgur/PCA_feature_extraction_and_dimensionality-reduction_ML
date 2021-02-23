@@ -30,3 +30,8 @@ Step 6:   Comparison Accurancy 6 Machine Learning Models : before-after PCA
 
 Collect Data: UCI Parkinson's Disease Classification Data Set
 https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification
+
+
+
+**Note:** *I chose the (n_components)top 6 components with the highest variance. anyone can give a different number. It is an optional choice. Decide to process only 6 of the 754 features with the highest variance. It reduces the size very much and enables fast processing and only the most effective features will be processed.
+PCA enabled only 6 variables to be processed instead of 754 variables.*
