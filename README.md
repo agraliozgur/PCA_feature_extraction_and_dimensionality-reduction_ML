@@ -1,7 +1,12 @@
 # PCA_feature_extraction_and_dimensionality-reduction_ML
-Applications of Artificial Intelligence, Machine Learning models and statistical effect of the PCA algorithm.
+Applications of Artificial Intelligence, Machine Learning Classification models and statistical effect of the PCA algorithm.
 
-Feature Extraction and Dimensionality Reduction with Principal Component Analysis (PCA)  and Comparison Accurancy 6 Machine Learning Models : before-after PCA
+Feature Extraction and Dimensionality Reduction with Principal Component Analysis (PCA) and Comparison Accuracy 6 Machine Learning Classification Models: before-after PCA.
+  
+It is observed that reducing the size with PCA, that is, reducing the number of variables, has a positive effect on the success score of some machine learning classification models. It is possible to produce more effective and faster solutions by taking a small amount of data loss. Reducing dimensions with PCA will provide us with great convenience, especially in studies related to Big Data.  
+  
+ 
+## Project Steps
   
 Step 1:   Collect Data: UCI Parkinson's Disease Classification Data Set
 
@@ -26,6 +31,8 @@ Step 6:   Comparison Accurancy 6 Machine Learning Models : before-after PCA
 5. Model : Random Forest Classifier
 
 6. Model: Gaussian Naive Bayes
+
+
 
 
 Collect Data: UCI Parkinson's Disease Classification Data Set
