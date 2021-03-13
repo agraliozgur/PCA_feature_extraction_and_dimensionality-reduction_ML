@@ -1,5 +1,4 @@
-# PCA_feature_extraction_and_dimensionality-reduction_ML
-Applications of Artificial Intelligence, Machine Learning Classification models and statistical effect of the PCA algorithm.
+# Applications of Artificial Intelligence, Machine Learning Classification models and statistical effect of the PCA algorithm.
 
 Feature Extraction and Dimensionality Reduction with Principal Component Analysis (PCA) and Comparison Accuracy 6 Machine Learning Classification Models: before-after PCA.
   
